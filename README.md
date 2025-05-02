@@ -7,13 +7,13 @@ Darien, CT | Elon University, B.S. Computer Science (Minor: Accounting) | GPA: 3
 ---
 
 ## About Me
-I’m an aspiring quantitative analyst passionate about applying mathematics, data analysis, and software engineering to financial markets and algorithmic trading. I have hands-on experience in developing trading algorithms, building machine learning models, and much more.
+I’m an aspiring quantitative analyst with a background in computer science and accounting. I focus on developing algorithmic trading strategies, building machine learning models, and applying data analysis to financial markets. I primarily work in *Python* and *C++*, using libraries such as pandas, NumPy, and matplotlib. My repositories include both coursework projects, which demonstrate my coding skills and project organization, and independent projects focused on algorithmic trading and financial data analysis. I’m enthusiastic about quantitative finance and continually expanding my skills in this area.
 
+---
 
 ## Contact
 
 - Email: ccaruso5@elon.edu
-- LinkedIn: [Your LinkedIn Profile Here]
-- GitHub: [github.com/chasevcaruso](https://github.com/chasevcaruso)
+- LinkedIn: www.linkedin.com/in/chasevcaruso
 
 ---
