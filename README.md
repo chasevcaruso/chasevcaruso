@@ -13,7 +13,6 @@ I’m an aspiring quantitative analyst with a background in computer science and
 
 ## Contact
 
-- Phone: +1 (203)295-5997
 - Email: ccaruso5@elon.edu
 - LinkedIn: www.linkedin.com/in/chasevcaruso
 
